@@ -1,0 +1,54 @@
+{
+    "data":[
+        {
+            "id": "1",
+            "user_id":"ihsansyafiul",
+            "thesis_path_id": 2,
+            "thesis_path_name": "Magang",
+            "academic_supervisor_id": 1,
+            "academic_supervisor_name": "rian Direct Functionality Manager",
+            "thesis_supervisor1_id": 0,
+            "thesis_supervisor1_name": "",
+            "thesis_supervisor2_id": 0,
+            "thesis_supervisor2_name": "",
+            "academic_year_id": 1,
+            "academic_year_name": "2021/2022",
+            "semester_id": 1,
+            "status": "unactive"
+        },
+        {
+            "id": "2",
+            "user_id":"tatakmeliodas",
+            "thesis_path_id": 2,
+            "thesis_path_name": "Magang",
+            "academic_supervisor_id": 1,
+            "academic_supervisor_name": "rian Direct Functionality Manager",
+            "thesis_supervisor1_id": 0,
+            "thesis_supervisor1_name": "",
+            "thesis_supervisor2_id": 0,
+            "thesis_supervisor2_name": "",
+            "academic_year_id": 1,
+            "academic_year_name": "2021/2022",
+            "semester_id": 1,
+            "status": "unactive"
+        },
+        {
+            "id": "3",
+            "user_id":"gudang.informatika",
+            "thesis_path_id": 2,
+            "thesis_path_name": "Magang",
+            "academic_supervisor_id": 1,
+            "academic_supervisor_name": "rian Direct Functionality Manager",
+            "thesis_supervisor1_id": 0,
+            "thesis_supervisor1_name": "",
+            "thesis_supervisor2_id": 0,
+            "thesis_supervisor2_name": "",
+            "academic_year_id": 1,
+            "academic_year_name": "2021/2022",
+            "semester_id": 1,
+            "status": "unactive"
+        }
+
+
+    ]
+}
