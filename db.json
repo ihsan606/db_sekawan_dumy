@@ -2,7 +2,11 @@
     "data":[
         {
             "id": "1",
-            "user_id":"ihsansyafiul",
+            "user_id":"20523217",
+            "user":{
+                "id": "1",
+                "name":"Muhammad Ihsan Syafiul Umam"
+            },
             "thesis_path_id": 2,
             "thesis_path_name": "Magang",
             "academic_supervisor_id": 1,
@@ -18,7 +22,11 @@
         },
         {
             "id": "2",
-            "user_id":"tatakmeliodas",
+            "user_id":"20523945",
+            "user":{
+                "id": "2",
+                "name":"Rudi Raharjo"
+            },
             "thesis_path_id": 2,
             "thesis_path_name": "Magang",
             "academic_supervisor_id": 1,
@@ -35,6 +43,10 @@
         {
             "id": "3",
             "user_id":"gudang.informatika",
+            "user":{
+                "id": "3",
+                "name":"Gudang Informatika UII"
+            },
             "thesis_path_id": 2,
             "thesis_path_name": "Magang",
             "academic_supervisor_id": 1,
